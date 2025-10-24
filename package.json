@@ -14,5 +14,8 @@
   "packageManager": "pnpm@10.10.0",
   "devDependencies": {
     "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
   }
 }
