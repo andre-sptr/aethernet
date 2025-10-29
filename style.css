@@ -106,18 +106,3 @@ body {
         transition-duration: 0.01ms !important;
     }
 }
-
-
-/* ======================================== */
-/* Media Query untuk Mobile         */
-/* ======================================== */
-
-@media (max-width: 768px) {
-    #main-content {
-        display: none;
-    }
-
-    #mobile-warning {
-        display: flex;
-    }
-}
